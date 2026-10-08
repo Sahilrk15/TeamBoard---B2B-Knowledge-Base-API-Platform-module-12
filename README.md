@@ -135,8 +135,17 @@ more roles (e.g. `analyst`, `billing`), it's a change to `Company.Role`
 and `IsAdminUser`, not to how Django auth itself works.
 
 ## Postman testing
-<img width="1920" height="1024" alt="SS1" src="https://github.com/user-attachments/assets/4f1ad06d-0e32-487d-a791-43df6b332c1c" />
-
+<img width="1920" height="1024" alt="SS1" src="https://github.com/user-attachments/assets/75dcd8ec-67c1-4380-9f70-3cd056adcb9b" />
+<img width="1920" height="1024" alt="SS2" src="https://github.com/user-attachments/assets/6ff80020-e855-467c-8fad-6b69b58ae0bc" />
+<img width="1920" height="1022" alt="SS3" src="https://github.com/user-attachments/assets/946035b8-1618-4b05-bab8-97abf357fb55" />
+<img width="1920" height="1023" alt="SS4" src="https://github.com/user-attachments/assets/f3fe1650-1770-415b-8b12-4b4c61dd7a55" />
+<img width="1920" height="1022" alt="SS5" src="https://github.com/user-attachments/assets/35555f17-67d6-428d-979a-370461a00087" />
+<img width="1920" height="1021" alt="SS6" src="https://github.com/user-attachments/assets/bcd58ce7-cef7-4557-873d-92d5d3f759e7" />
+<img width="1920" height="1017" alt="SS7" src="https://github.com/user-attachments/assets/55ccccaf-2fe2-479c-9713-6e7a824a5f03" />
+<img width="1920" height="1020" alt="SS8" src="https://github.com/user-attachments/assets/bdd0a6ec-e858-440a-a9a9-9de5ebb86979" />
+<img width="1920" height="1023" alt="SS9" src="https://github.com/user-attachments/assets/f159bc96-c4c3-41b2-b90b-5a44f5fceeaf" />
+<img width="1920" height="1024" alt="SS10" src="https://github.com/user-attachments/assets/26b79df3-33b0-462e-ad6c-66ce9c919289" />
+<img width="1920" height="1025" alt="SS11" src="https://github.com/user-attachments/assets/021d91e0-41b3-4e12-92b4-3e0919191609" />
 
 The submission includes a Postman collection
 (`teamboard.postman_collection.json`) covering all 11 required scenarios:
