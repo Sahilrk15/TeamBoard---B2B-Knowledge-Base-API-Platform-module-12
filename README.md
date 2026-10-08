@@ -135,6 +135,8 @@ more roles (e.g. `analyst`, `billing`), it's a change to `Company.Role`
 and `IsAdminUser`, not to how Django auth itself works.
 
 ## Postman testing
+<img width="1920" height="1024" alt="SS1" src="https://github.com/user-attachments/assets/4f1ad06d-0e32-487d-a791-43df6b332c1c" />
+
 
 The submission includes a Postman collection
 (`teamboard.postman_collection.json`) covering all 11 required scenarios:
